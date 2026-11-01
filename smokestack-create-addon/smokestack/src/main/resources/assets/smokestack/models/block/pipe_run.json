@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "smokestack:block/pipe_run_end",
+    "side": "smokestack:block/pipe_run_side"
+  }
+}

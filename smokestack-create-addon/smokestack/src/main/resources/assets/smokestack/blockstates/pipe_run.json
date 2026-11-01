@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "smokestack:block/pipe_run"
+    },
+    "axis=z": {
+      "model": "smokestack:block/pipe_run",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "smokestack:block/pipe_run",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "smokestack:block/coal_heap"
+    }
+  }
+}

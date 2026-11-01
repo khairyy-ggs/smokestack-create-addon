@@ -1,0 +1,1 @@
+chimney draft | real: stack effect, draft ~ height * temperature difference | linear in flue segments above boiler, full at 24 | Create: turbine rpm 24..128, capacity 128 su/rpm | faked: no temperature, no wind; coal burn rate also scales with heat so a tall stack costs fuel

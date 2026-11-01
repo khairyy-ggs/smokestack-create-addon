@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "smokestack:block/plant_glass"
+  },
+  "render_type": "minecraft:translucent"
+}

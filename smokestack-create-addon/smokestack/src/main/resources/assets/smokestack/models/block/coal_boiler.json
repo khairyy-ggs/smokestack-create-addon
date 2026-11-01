@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "smokestack:block/coal_boiler_top",
+    "bottom": "smokestack:block/coal_boiler_top",
+    "side": "smokestack:block/coal_boiler_side"
+  }
+}

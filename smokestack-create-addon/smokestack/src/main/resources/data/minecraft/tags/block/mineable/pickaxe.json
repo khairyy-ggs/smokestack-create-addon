@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "smokestack:cast_concrete",
+    "smokestack:hazard_plating",
+    "smokestack:steel_plating",
+    "smokestack:coal_heap",
+    "smokestack:asphalt",
+    "smokestack:cooling_shell",
+    "smokestack:stack_shell",
+    "smokestack:steel_grating",
+    "smokestack:plant_glass",
+    "smokestack:conveyor_bed",
+    "smokestack:flue_segment",
+    "smokestack:pipe_run",
+    "smokestack:coal_boiler",
+    "smokestack:steam_turbine"
+  ]
+}

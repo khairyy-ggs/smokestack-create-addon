@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "smokestack:block/steam_turbine"
+    },
+    "facing=east": {
+      "model": "smokestack:block/steam_turbine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "smokestack:block/steam_turbine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "smokestack:block/steam_turbine",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "smokestack:block/steam_turbine",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "smokestack:block/steam_turbine",
+      "x": 90
+    }
+  }
+}

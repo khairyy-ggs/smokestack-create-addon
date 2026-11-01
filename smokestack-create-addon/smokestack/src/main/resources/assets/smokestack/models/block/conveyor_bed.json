@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "smokestack:block/conveyor_bed_top",
+    "side": "smokestack:block/conveyor_bed_side",
+    "bottom": "smokestack:block/conveyor_bed_side"
+  }
+}

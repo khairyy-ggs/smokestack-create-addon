@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "smokestack:block/coal_boiler"
+    },
+    "lit=true": {
+      "model": "smokestack:block/coal_boiler_lit"
+    }
+  }
+}
