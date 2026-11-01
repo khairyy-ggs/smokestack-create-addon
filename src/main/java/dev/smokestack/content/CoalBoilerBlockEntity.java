@@ -22,7 +22,6 @@ import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.material.FluidState;
 import net.minecraft.world.level.material.Fluids;
-import net.neoforged.neoforge.common.CommonHooks;
 import net.neoforged.neoforge.fluids.FluidStack;
 import net.neoforged.neoforge.fluids.capability.IFluidHandler;
 import net.neoforged.neoforge.fluids.capability.templates.FluidTank;
@@ -69,7 +68,7 @@ public class CoalBoilerBlockEntity extends SmartBlockEntity implements IHaveGogg
     }
 
     public static int burnTimeOf(ItemStack stack) {
-        return stack.isEmpty() ? 0 : CommonHooks.getBurnTime(stack, RecipeType.SMELTING);
+        return stack.isEmpty() ? 0 : stack.getBurnTime(RecipeType.SMELTING);
     }
 
     @Override
